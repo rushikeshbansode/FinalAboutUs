@@ -1,0 +1,135 @@
+
+@media (max-width: 575.98px) 
+{
+    .cointainer{
+
+        display: inline-block;
+        height:250px;
+        width:300px;        
+        
+        
+
+    }
+    
+    .cointainer h2{
+        color: #3e9ddc;
+        padding-bottom: 10px;
+    
+    }
+    
+    #icon{
+        font-size:60px;
+        color:lightblue;
+    }
+    
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) 
+{ 
+    .cointainer{
+
+        display: inline-block;
+        height:280px;
+        width:230px;
+        margin-right: 20px; 
+        margin-top: 20px;
+        margin-bottom: 20px;
+        
+    }
+    
+    .cointainer h2{
+        color: #3e9ddc;
+        padding-bottom: 10px;
+    }
+    
+    #icon{
+        font-size:60px;
+        color:lightblue;
+    }
+    
+
+}
+@media (min-width: 768px) and (max-width: 991.98px) 
+{ 
+    .cointainer{
+
+        display: inline-block;
+        height:280px;
+        width:250px;
+        
+        margin-top: 20px;
+        margin-bottom: 20px;
+        
+    }
+    
+    .cointainer h2{
+        color: #3e9ddc;
+        padding-bottom: 10px;
+    
+    }
+    
+    #icon{
+        font-size:60px;
+        color:lightblue;
+    }
+    
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{ 
+    .cointainer{
+
+        display: inline-block;
+        height:250px;
+        width:300px;
+        background-color:whit;
+        
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        
+    }
+    
+    .cointainer h2{
+        color: #3e9ddc;
+        padding-bottom: 10px;
+    
+    }
+    
+    #icon{
+        font-size:60px;
+        color:lightblue;
+    }
+    
+
+}
+@media (min-width: 1200px) 
+{ 
+        .cointainer{
+
+            display: inline-block;
+            height:250px;
+            width:300px;
+            background-color:whit;
+            
+            margin-right: 40px;
+            margin-left: 40px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            
+        }
+        
+        .cointainer h2{
+            color: #3e9ddc;
+            padding-bottom: 10px;
+        
+        }
+        
+        #icon{
+            font-size:60px;
+            color:lightblue;
+        }
+        
+    
+}

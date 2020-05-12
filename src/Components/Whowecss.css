@@ -1,0 +1,238 @@
+
+
+@media (max-width: 575.98px) 
+{ 
+    
+    body{
+        
+        }
+
+        .outercointainer{
+            display: contents;
+            height: 150px;
+            margin-top: 20px;    
+            
+        }
+
+        .whoimage{
+            display: block;
+            height: 200px;
+            width:80%;
+            margin-top: 20px;
+            padding-right: 0px;
+            margin-left: 30px;
+            border-bottom-right-radius:0px;
+            border-bottom-left-radius:20px;
+            border-top-right-radius:20px;
+            border-top-left-radius:0px;
+            
+        }
+
+        .whotitle{
+        width: 100%;
+        color: teal;
+        }
+
+        .whocointainer{
+            display: block;
+            width:100%;
+            margin-bottom: 50px;
+            padding-right: 0px;
+        }
+
+        .whocointainer p{
+            display: block;
+            color: #b0b0b0;;
+        } 
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) 
+{
+
+    body{
+
+        }
+
+        .outercointainer{
+            display: flex;
+            background-color:orang;
+            height: 350px;
+            margin-top: 25px;    
+            
+        }
+
+        .whoimage{
+            display: inline-block;
+            height: 330px;
+            width: 290px;
+            
+            border-bottom-right-radius:0px;
+            border-bottom-left-radius:20px;
+            border-top-right-radius:20px;
+            border-top-left-radius:0px;
+            margin-bottom: 40px;
+            margin-left: 10px;
+        }
+
+        .whotitle{
+        
+            color: teal;
+        }
+
+        .whocointainer{
+            display: inline-block;
+            
+            width:500px;
+            margin-bottom: 50px;
+            
+        }
+
+        .whocointainer p{
+            color: #b0b0b0;;
+        } 
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) 
+{ 
+    
+    body{
+        
+        }
+
+        .outercointainer{
+            display: flex;
+        
+            height: 350px;
+            margin-top: 30px;    
+            
+        }
+
+        .whoimage{
+            display: inline-block;
+            height: 330px;
+            width: 380px;
+            margin-left: 20px;
+            margin-right: 20px;
+            
+            border-bottom-right-radius:0px;
+            border-bottom-left-radius:20px;
+            border-top-right-radius:20px;
+            border-top-left-radius:0px;
+        }
+
+        .whotitle{
+        
+            color: teal;
+        }
+
+        .whocointainer{
+            display: inline-block;
+            background-color:white;
+            height: 350px;
+            width:450px;
+            margin-bottom: 50px;
+            padding-right: 20px;
+        }
+
+        .whocointainer p{
+            font-size: 18px;
+            color: #b0b0b0;
+        } 
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{
+    
+    body{
+        
+        }
+
+        .outercointainer{
+            display: flex;
+            height: 350px;
+            margin-top: 30px;    
+            
+        }
+
+        .whoimage{
+            display: inline-block;
+            height: 350px;
+            width: 450px;
+            margin-right: 30px;
+            margin-left: 50px;
+            background-image: url(../images/aboutus10.jpg);
+            border-bottom-right-radius:0px;
+            border-bottom-left-radius:20px;
+            border-top-right-radius:20px;
+            border-top-left-radius:0px;
+        }
+
+        .whotitle{
+            color: teal;
+        }
+
+        .whocointainer{
+            display: inline-block;
+            background-color:white;
+            height: 350px;
+            width:550px;
+            margin-bottom: 50px;
+            
+        }
+
+        .whocointainer p{
+            color: #b0b0b0;
+            font-size: 22px;
+        } 
+
+
+}
+
+@media (min-width: 1200px) 
+{ 
+        body{
+        
+        }
+
+        .outercointainer{
+            
+            display: flex;
+            height: 370px;
+            margin-top: 30px;    
+            
+        }
+
+        .whoimage{
+            display: inline-block;
+            height: 370px;
+            width: 450px;
+            margin-right: 30px;
+            margin-left: 100px;
+            
+            border-bottom-right-radius:0px;
+            border-bottom-left-radius:20px;
+            border-top-right-radius:20px;
+            border-top-left-radius:0px;
+        }
+
+        .whotitle{
+        color: teal;
+        }
+
+        .whocointainer{
+            
+            background-color:white;
+            height: 350px;
+            width:750px;
+            margin-bottom: 50px;
+            padding-left: 10px;
+        }
+
+         .whocointainer p{
+            color: #b0b0b0;
+            font-size: 23px;
+        } 
+}

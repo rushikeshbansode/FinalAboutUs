@@ -1,0 +1,358 @@
+
+@media (max-width: 575.98px) 
+{ 
+    
+    body{
+        margin:0;
+    }
+
+    .divsection{
+        position: relative;
+        text-align: center;
+    }
+
+    .imageclass{
+        
+       
+        width:100%;
+        margin-top: 0px;
+        height:440px;
+        
+    }
+
+    .myname{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 40px;
+        margin-top: -360px;
+        padding-bottom: 40px;
+
+    }
+
+    .slogansentance{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 20px;
+        margin-top: -200px;
+        padding-bottom: 40px;
+        margin-left: 0px;
+        color:#899aa9;
+        
+    }
+
+    .morebutton{
+        position: absolute;
+        display: flexbox;
+    height: 20px;
+    color:white;
+    border: none;
+    width:160PX;
+    top: 90%;
+    left: 50%;
+    font-size: 15px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #007bff;
+  font-size: 18px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) 
+{ 
+
+
+    body{
+        margin:0;
+    }
+
+    .divsection{
+        position: relative;
+        text-align: center;
+    }
+
+    .imageclass{
+        
+       
+        width:100%;
+        margin-top: 0px;
+        height:540px;
+        
+    }
+
+    .myname{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 40px;
+        margin-top: -360px;
+        padding-bottom: 40px;
+        margin-left: 100px;
+
+        
+        
+    }
+
+    .slogansentance{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 25px;
+        margin-top: -300px;
+        padding-bottom: 40px;
+        margin-left: 20px;
+        color:#899aa9;
+        
+    }
+
+    .morebutton{
+        position: absolute;
+        display: flexbox;
+    height: 20px;
+    color:white;
+    border: none;
+    width:160PX;
+    top: 90%;
+    left: 50%;
+    font-size: 15px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  
+  background-color: #007bff;
+  color:white;
+  font-size: 18px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) 
+{ 
+
+    body{
+        margin:0;
+    }
+
+    .divsection{
+        position: relative;
+        text-align: center;
+    }
+
+    .imageclass{
+        
+       
+        width:100%;
+        margin-top: 0px;
+        height:540px;
+        
+    }
+
+    .myname{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 40px;
+        margin-top: -360px;
+        padding-bottom: 40px;
+        margin-left: 240px;
+
+        
+        
+    }
+
+    .slogansentance{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 25px;
+        margin-top: -300px;
+        padding-bottom: 40px;
+        margin-left: 90px;
+        color:#899aa9;
+        
+    }
+
+    .morebutton{
+        position: absolute;
+        display: flexbox;
+    height: 20px;
+    color:white;
+    border: none;
+    width:160PX;
+    top: 90%;
+    left: 52%;
+    font-size: 15px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  
+  background-color: #007bff;
+  color:white;
+  font-size: 18px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) 
+{     body{
+    margin:0;
+}
+
+.divsection{
+    position: relative;
+    text-align: center;
+}
+
+.imageclass{
+    
+   
+    width:100%;
+    margin-top: 0px;
+    height:540px;
+    
+}
+
+.myname{
+    position: absolute;
+    display: block;
+    color:white;
+    font-size: 40px;
+    margin-top: -360px;
+    padding-bottom: 40px;
+    margin-left: 320px;
+
+    
+    
+}
+
+.slogansentance{
+    position: absolute;
+    display: block;
+    color:white;
+    font-size: 25px;
+    margin-top: -300px;
+    padding-bottom: 40px;
+    margin-left: 170px;
+    color:#899aa9;
+}
+
+.morebutton{
+    position: absolute;
+    display: flexbox;
+height: 20px;
+color:white;
+border: none;
+width:160PX;
+top: 90%;
+left: 50%;
+font-size: 15px;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+
+background-color: #007bff;
+color:white;
+font-size: 18px;
+padding: 12px 24px;
+border: none;
+cursor: pointer;
+border-radius: 25px;
+text-decoration: none;
+text-align: center;
+
+}
+}
+
+@media (min-width: 1200px) 
+{ 
+
+    body{
+        margin:0;
+    }
+
+    .divsection{
+        position: relative;
+        text-align: center;
+    }
+
+    .imageclass{
+        
+        filter: blur(0px);
+        -webkit-filter: blur(0px);
+        width:100%;
+        margin-top: 0px;
+        height:540px;
+        
+    }
+
+    .myname{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 40px;
+        margin-top: -360px;
+        padding-bottom: 40px;
+        margin-left: 420px;
+
+        
+        
+    }
+
+    .slogansentance{
+        position: absolute;
+        display: block;
+        color:white;
+        font-size: 25px;
+        margin-top: -300px;
+        padding-bottom: 40px;
+        margin-left: 300px;
+        color:#899aa9;
+        
+    }
+
+    .morebutton{
+        position: absolute;
+        display: flexbox;
+    height: 20px;
+    color:white;
+    border: none;
+    width:160PX;
+    top: 90%;
+    left: 50%;
+    font-size: 15px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  
+  background-color: #007bff;
+  color:white;
+  font-size: 18px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+
+    }
+
+}
